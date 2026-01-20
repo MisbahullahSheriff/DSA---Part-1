@@ -97,6 +97,23 @@ This repository contains **well-structured explanations, Python implementations,
 - Binary search pattern
 - Greedy basics
 
+### 1️⃣2️⃣ Trees
+- Inorder Traversal
+- Preorder Traversal
+- Postorder Traversal
+- Binary Search Tree
+- N-ary Tree
+- Tree Dynamic Programming
+
+### 1️⃣3️⃣ Graphs
+- Adjacency Matrix and List
+- Breadth First Search
+- Depth First Search
+- Shortest Path Algorithms
+- Directed Acyclic Graphs
+- Disjoint Set Union
+- Minimum Spanning Tree Algorithms
+- State Space Graphs
 
 ---
 
@@ -115,4 +132,6 @@ This repository contains **well-structured explanations, Python implementations,
  ┣ 📁 09_Recursion
  ┣ 📁 10_Hashing
  ┣ 📁 11_Patterns_Problem_Solving
+ ┣ 📁 12_Trees
+ ┣ 📁 13_Graphs
  ┗ 📄 README.md
